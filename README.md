@@ -1,2 +1,2 @@
 # AI
-AI projects - the 1st one is Binary Classification
+AI projects - the 1st one is on Binary Classification
